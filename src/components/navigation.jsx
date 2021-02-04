@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import Logo1 from '../Media/Logo2.jpeg'
+import '../App.css'
 
 export class Navigation extends Component {
   render() {
@@ -18,9 +20,8 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-              React Landing Page
-            </a>{" "}
+            <img src={Logo1} alt='Logo' style={{width: 150, height: 80 }}/>
+
           </div>
 
           <div
