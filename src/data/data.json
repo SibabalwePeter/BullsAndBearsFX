@@ -20,27 +20,27 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-graduation-cap",
             "name": "Forex education and training",
             "text": " "
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-users",
             "name": "Mentoring and signal services.",
             "text": " "
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-user",
             "name": "Self-study packages",
             "text": " "
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-money",
             "name": "Investment options",
             "text": " "
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-line-chart",
             "name": "Fund management services",
             "text": " "
         },
