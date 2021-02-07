@@ -33,21 +33,6 @@
             "icon": "fa fa-user",
             "name": "Self-study packages",
             "text": " "
-        },
-        {
-            "icon": "fa fa-money",
-            "name": "Investment options",
-            "text": " "
-        },
-        {
-            "icon": "fa fa-line-chart",
-            "name": "Fund management services",
-            "text": " "
-        },
-        {
-            "icon": "fa fa-cloud-download",
-            "name": "Consultation sessions",
-            "text": " "
         }
     ],
     "Testimonials": [{
